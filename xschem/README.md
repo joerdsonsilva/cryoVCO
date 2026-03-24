@@ -15,7 +15,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | M1, M2     | W/L = 120 μm / 0.13 μm |
 | M3, M4     | W/L = 40 μm / 0.13 μm  |
 | C3      | W/L = 9.4 μm / 0.8 μm  |
-| C1, C2     | 125 fF                 |
+| C1, C2     | 217 fF                 |
 | R1, R2 | 222 Ω                  |
 | L1, L2     | 1.54 nH                   |
 
