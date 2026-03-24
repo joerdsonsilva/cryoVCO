@@ -1,5 +1,5 @@
 Python 3.6.8
 ngspice 43
-xschem 3.4.5
-klayout 0.29.2
+xschem 3.4.6
+klayout 0.30.5
 

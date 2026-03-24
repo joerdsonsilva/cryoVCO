@@ -12,19 +12,19 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 | Component  | Value                  |
 | ---------- | ---------------------- |
-| M₁, M₂     | W/L = 120 μm / 0.13 μm |
-| M₃, M₄     | W/L = 40 μm / 0.13 μm  |
-| C_var      | W/L = 9.4 μm / 0.8 μm  |
-| C₁, C₂     | 125 fF                 |
-| R_p1, R_p2 | 222 Ω                  |
-| L₁, L₂     | 2 nH                   |
+| M1, M2     | W/L = 120 μm / 0.13 μm |
+| M3, M4     | W/L = 40 μm / 0.13 μm  |
+| C3      | W/L = 9.4 μm / 0.8 μm  |
+| C1, C2     | 217 fF                 |
+| R1, R2 | 222 Ω                  |
+| L1, L2     | 1.54 nH                   |
 
 ## Input and Output of a Cross-Coupled LC VCO:
 
-- LOP2 and LON2: Differential output pair
-- VCC2: Power supply terminal
-- ICC2: Bias current terminal
-- VCTR2: Control Voltage of the varactor
+- LOP and LON2: Differential output pair
+- VCC: Power supply terminal
+- ICC: Bias current terminal
+- VCTR: Control Voltage of the varactor
 - GND: Ground terminal
 
 ## Parameters
@@ -33,7 +33,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | ----------------------- | ------------------- | -------------------- |
 | Technology              | IHP (SG13G2) 130 nm | IHP (SG13G2C) 130 nm |
 | Control Voltage (Vctrl) | 0–3 V               | 0–3 V                |
-| Supply Voltage          | 1.5 V               | 1.5 V                | 
+| Supply Voltage          | 1.2 V               | 1.2 V                | 
 | Bias Current            | 6 mA                | 6 mA                 |
 
 
