@@ -71,9 +71,16 @@ Below is the final completed layout of the designed circuit.
 
 The layout verification was performed using KLayout to ensure the design satisfies all design rule checks (DRC) and layout-versus-schematic (LVS) requirements.
 
-- LVS:
+- DRC: The Design Rule Check (DRC) verifies that the layout follows all the design rules defined by the PDK.
+
+<p align="center">
+  <img src="../Images/DRC.png" alt="DRC"><br>
+  <em>Figure 6: DRC verification: layout complies with design rules.</em>
+</p>
+
+- LVS: The Layout Versus Schematic (LVS) verification confirms that the implemented layout matches the original schematic design.
 
 <p align="center">
   <img src="../Images/LVS.png" alt="LVS"><br>
-  <em>Figure 6: LVS verification: layout matches original schematic.</em>
+  <em>Figure 7: LVS verification: layout matches original schematic.</em>
 </p>
