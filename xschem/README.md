@@ -7,8 +7,10 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
   <em>Figure 1: LC-VCO schematic.</em>
 </p>
 
-![Testbench](../Images/Testbench.png)
-*Figure 2: Testbench Setup for the LCVCO.*
+<p align="center">
+  <img src="../Images/Testbench.png" alt="Testbench"><br>
+  <em>Figure 2: Testbench Setup for the LCVCO.</em>
+</p>
 
 ## Specifications
 
