@@ -68,3 +68,5 @@ Below is the final completed layout of the designed circuit.
 | Phase Noise (@1 MHz) | -98.8 dBc/Hz  | -110 dBc/Hz |
 
 ## DRC and LVS Verification
+
+The layout verification was performed using KLayout to ensure the design satisfies all design rule checks (DRC) and layout-versus-schematic (LVS) requirements.
