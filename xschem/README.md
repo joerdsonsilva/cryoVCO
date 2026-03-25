@@ -44,7 +44,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 <p align="center">
   <img src="../Images/Tuning Range.png" alt="Tuning Range"><br>
-  <em>Figure 3:Simulated oscillation frequency versus control voltage.</em>
+  <em>Figure 3: Simulated oscillation frequency versus control voltage.</em>
 </p>
 
 <p align="center">
