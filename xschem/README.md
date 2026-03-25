@@ -18,14 +18,14 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | ---------- | ---------------------- |
 | M1, M2     | W/L = 120 μm / 0.13 μm |
 | M3, M4     | W/L = 40 μm / 0.13 μm  |
-| C3      | W/L = 9.4 μm / 0.8 μm  |
 | C1, C2     | 217 fF                 |
-| R1, R2 | 222 Ω                  |
+| C3      | W/L = 9.74 μm / 0.8 μm  |
+| R1, R2 | 221.72 Ω                  |
 | L1, L2     | 1.54 nH                   |
 
 ## Input and Output of a Cross-Coupled LC VCO:
 
-- LOP and LON2: Differential output pair
+- LOP and LON: Differential output pair
 - VCC: Power supply terminal
 - ICC: Bias current terminal
 - VCTR: Control Voltage of the varactor
