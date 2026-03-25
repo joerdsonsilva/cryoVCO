@@ -70,3 +70,8 @@ Below is the final completed layout of the designed circuit.
 ## DRC and LVS Verification
 
 The layout verification was performed using KLayout to ensure the design satisfies all design rule checks (DRC) and layout-versus-schematic (LVS) requirements.
+
+<p align="center">
+  <img src="../Images/LVS.png" alt="LVS"><br>
+  <em>Figure 6: LVS verification: layout matches original schematic.</em>
+</p>
