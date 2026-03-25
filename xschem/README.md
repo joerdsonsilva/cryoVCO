@@ -40,16 +40,24 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Supply Voltage          | 1.2 V               | 1.2 V                | 
 | Bias Current            | 6 mA                | 6 mA                 |
 
+## Layout
+
+<p align="center">
+  <img src="../Images/Layout.png" alt="Layout"><br>
+  <em>Figure 3: LC-VCO Layout.</em>
+</p>
+
+
 ## Post-Layout Simulation
 
 <p align="center">
   <img src="../Images/Tuning Range.png" alt="Tuning Range"><br>
-  <em>Figure 3: Simulated oscillation frequency versus control voltage.</em>
+  <em>Figure 4: Simulated oscillation frequency versus control voltage.</em>
 </p>
 
 <p align="center">
   <img src="../Images/Phase Noise.png" alt="Phase Noise"><br>
-  <em>Figure 4: Simulated phase noise at 4.9 GHz.</em>
+  <em>Figure 5: Simulated phase noise at 4.9 GHz.</em>
 </p>
 
 | Parameter            | Value (300 K) | Value (4 K) |
