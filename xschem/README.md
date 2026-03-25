@@ -40,7 +40,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Supply Voltage          | 1.2 V               | 1.2 V                | 
 | Bias Current            | 6 mA                | 6 mA                 |
 
-## Simulations
+## Post-Layout Simulation
 
 <p align="center">
   <img src="../Images/Tuning Range.png" alt="Tuning Range"><br>
