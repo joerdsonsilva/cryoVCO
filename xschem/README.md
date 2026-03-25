@@ -49,7 +49,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 <p align="center">
   <img src="../Images/Phase Noise.png" alt="Phase Noise"><br>
-  <em>Figure 4: Simulated phase noise at 4.9GHz.</em>
+  <em>Figure 4: Simulated phase noise at 4.9 GHz.</em>
 </p>
 
 | Parameter            | Value (300 K) | Value (4 K) |
