@@ -42,6 +42,8 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 ## Layout
 
+Below is the final completed layout of the designed circuit.
+
 <p align="center">
   <img src="../Images/Layout.png" alt="Layout"><br>
   <em>Figure 3: LC-VCO Layout.</em>
@@ -64,3 +66,5 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Operating Frequency  | 4.9 GHz       | 4.9 GHz     |
 | Tuning Range         | 4.7–5.0 GHz   | 4.8–5.1 GHz |
 | Phase Noise (@1 MHz) | -98.8 dBc/Hz  | -110 dBc/Hz |
+
+## DRC and LVS Verification
