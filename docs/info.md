@@ -2,12 +2,12 @@
 The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using the technology available in the SG13G2 folder for room-temperature simulations. To enable operation under cryogenic conditions, transistor characterization was provided by IHP and made available in the SG13G2C folder, allowing for the analysis of device behavior at low temperatures. The schematic and the testbench were implemented according to Figures 1 and 2, respectively.
 
 <p align="center">
-  <img src="../Images/Schematic.png" alt="Schematic"><br>
+  <img src="../docs/images/Schematic.png" alt="Schematic"><br>
   <em>Figure 1: LC-VCO schematic.</em>
 </p>
 
 <p align="center">
-  <img src="../Images/Testbench.png" alt="Testbench"><br>
+  <img src="../docs/images/Testbench.png" alt="Testbench"><br>
   <em>Figure 2: Testbench setup for the LC-VCO.</em>
 </p>
 
@@ -44,19 +44,19 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 Below is the final completed layout of the designed circuit.
 
 <p align="center">
-  <img src="../Images/Layout.png" alt="Layout"><br>
+  <img src="../docs/images/Layout.png" alt="Layout"><br>
   <em>Figure 3: LC-VCO Layout.</em>
 </p>
 
 ## Post-Layout Simulation
 
 <p align="center">
-  <img src="../Images/Tuning Range.png" alt="Tuning Range"><br>
+  <img src="../docs/images/Tuning Range.png" alt="Tuning Range"><br>
   <em>Figure 4: Simulated oscillation frequency versus control voltage.</em>
 </p>
 
 <p align="center">
-  <img src="../Images/Phase Noise.png" alt="Phase Noise"><br>
+  <img src="../docs/images/Phase Noise.png" alt="Phase Noise"><br>
   <em>Figure 5: Simulated phase noise at 4.9 GHz.</em>
 </p>
 
@@ -73,13 +73,13 @@ The layout verification was performed using KLayout to ensure the design satisfi
 - DRC verification: The Design Rule Check (DRC) verifies that the layout follows all the design rules defined by the PDK.
 
 <p align="center">
-  <img src="../Images/DRC.png" alt="DRC"><br>
+  <img src="../docs/images/DRC.png" alt="DRC"><br>
   <em>Figure 6: Layout complies with design rules.</em>
 </p>
 
 - LVS verification: The Layout Versus Schematic (LVS) verification confirms that the implemented layout matches the original schematic design.
 
 <p align="center">
-  <img src="../Images/LVS.png" alt="LVS"><br>
+  <img src="../docs/images/LVS.png" alt="LVS"><br>
   <em>Figure 7: Layout matches original schematic.</em>
 </p>
