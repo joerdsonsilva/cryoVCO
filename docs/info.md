@@ -40,7 +40,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Technology              | IHP (SG13G2) 130 nm | IHP (SG13G2C) 130 nm |
 | Control Voltage         | 0–3 V               | 0–3 V                |
 | Supply Voltage          | 1.2 V               | 1.2 V                | 
-| Bias Current            | 6 mA                | 6 mA                 |
+| Bias Current            | ~6 mA                | ~5.85 mA                 |
 
 ## Post-Layout Simulation
 
@@ -72,7 +72,7 @@ Below is the final completed layout of the designed circuit.
   <em>Figure 5: LC-VCO Layout.</em>
 </p>
 
-The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections, as shown in Fig. X.
+The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections.
 
 <p align="center">
   <img src="../docs/images/RFPAD.png" alt="RFPAD"><br>
@@ -100,4 +100,13 @@ The layout verification was performed using KLayout to ensure the design satisfi
 ## Team & Acknowledgements
 
 This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS program.
+
+**Mentor**
+- Prof. Francisco Brito (PhD in Electrical Engineering)
+  
+**Students**
+  
+- Joerdson Silva (MSc Student in Electrical Engineering)
+- Luiz Paulo (Electrical Engineering Student)
+- Iranildo Sales (Electrical Engineering Student)
 
