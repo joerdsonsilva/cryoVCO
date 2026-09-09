@@ -13,18 +13,18 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 ## Specifications
 
-| Component  | Value                  |
-| ---------- | ---------------------- |
-| M<sub>1</sub>, M<sub>2</sub>     | W/L = 120 μm / 0.13 μm |
-| M<sub>3</sub>, M<sub>4</sub>     | W/L = 40 μm / 0.13 μm  |
-| C<sub>1</sub>, C<sub>2</sub>     | 160.56 fF               |
-| C<sub>3</sub>         | W/L = 9.74 μm / 0.8 μm |
-| R<sub>1</sub>, R<sub>2</sub>     | 221.72 Ω               |
-| L<sub>1</sub>, L<sub>2</sub>     | 1.54 nH                |
+| Component  | Value                  | Description         |
+| ---------- | ---------------------- | ------------------- |
+| M<sub>1</sub>, M<sub>2</sub>     | W/L = 120 μm / 0.13 μm | Transistor |
+| M<sub>3</sub>, M<sub>4</sub>     | W/L = 40 μm / 0.13 μm  | Transistor |
+| C<sub>1</sub>, C<sub>2</sub>     | 160.56 fF              | Capacitor  |
+| C<sub>3</sub>                    | W/L = 9.74 μm / 0.8 μm | Varactor   |
+| R<sub>1</sub>, R<sub>2</sub>     | 221.72 Ω               | Resistor   |
+| L<sub>1</sub>, L<sub>2</sub>     | 1.54 nH                | Inductor   |
 
 ## Input and Output of a Cross-Coupled LC-VCO:
 
-| Pin Name                | Type                |  Description                  |
+| Pin Name                | Type                | Description                   |
 | ----------------------- | ------------------- | ----------------------------- |
 | VCC                     | Power               | Power supply terminal         |
 | GND                     | Ground              | Ground terminal               |
