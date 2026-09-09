@@ -72,6 +72,8 @@ Below is the final completed layout of the designed circuit.
   <em>Figure 5: LC-VCO Layout.</em>
 </p>
 
+The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections, as shown in Fig. X.
+
 ## DRC and LVS Verification
 
 The layout verification was performed using KLayout to ensure the design satisfies all design rule checks (DRC) and layout-versus-schematic (LVS) requirements.
