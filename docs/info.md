@@ -31,12 +31,14 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 - VCTR: Control Voltage of the varactor
 - GND: Ground terminal
 
-| Pin Name                | Type   | Direction        |  Description   |
-| ----------------------- | ------------------- | -------------------- |
-| Technology              | IHP (SG13G2) 130 nm | IHP (SG13G2C) 130 nm |
-| Control Voltage (Vctrl) | 0–3 V               | 0–3 V                |
-| Supply Voltage          | 1.2 V               | 1.2 V                | 
-| Bias Current            | 6 mA                | 6 mA                 |
+| Pin Name                | Type                |  Description                  |
+| ----------------------- | ------------------- | ----------------------------- |
+| VCC                     | Power               | Power supply terminal         |
+| GND                     | Ground              | Ground terminal               |
+| VCTR                    | Analog bias         | Control voltage terminal      | 
+| ICC                     | Analog bias         | Bias current terminal         |
+| LOP                     | Analog              | Positive differential output  |
+| LON                     | Analog              | Negative differential output  |
 
 ## Parameters
 
