@@ -62,7 +62,9 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 ## Layout
 
-Below is the final completed layout of the designed circuit. Area Estimation: 366 µm × 231 µm
+Below is the final completed layout of the designed circuit. 
+
+- Area Estimation: 366 µm × 231 µm
 
 <p align="center">
   <img src="../docs/images/Layout.png" alt="Layout"><br>
