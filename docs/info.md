@@ -101,3 +101,10 @@ The layout verification was performed using KLayout to ensure the design satisfi
 
 This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS program.
 
+Team Members:
+
+- Francisco Brito
+- Joerdson Silva
+- Luiz Paulo
+- Iranildo Sales
+
