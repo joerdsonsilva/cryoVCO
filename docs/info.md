@@ -24,13 +24,6 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 
 ## Input and Output of a Cross-Coupled LC-VCO:
 
-- LOP: Differential output pair
-- LON: Differential output pair
-- VCC: Power supply terminal
-- ICC: Bias current terminal
-- VCTR: Control Voltage of the varactor
-- GND: Ground terminal
-
 | Pin Name                | Type                |  Description                  |
 | ----------------------- | ------------------- | ----------------------------- |
 | VCC                     | Power               | Power supply terminal         |
