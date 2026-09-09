@@ -104,7 +104,7 @@ This project was developed by students from the MERFESLab laboratory as part of 
 Team Members:
 
 - Francisco Brito (PhD in Electrical Engineering)
-- Joerdson Silva (Master's in Electrical Engineering)
-- Luiz Paulo
-- Iranildo Sales
+- Joerdson Silva (MSc Student in Electrical Engineering)
+- Luiz Paulo (Electrical Engineering Student)
+- Iranildo Sales (Electrical Engineering Student)
 
