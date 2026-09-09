@@ -74,6 +74,11 @@ Below is the final completed layout of the designed circuit.
 
 The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections, as shown in Fig. X.
 
+<p align="center">
+  <img src="../docs/images/RFPAD.png" alt="RFPAD"><br>
+  <em>Figure 6: RFPAD.</em>
+</p>
+
 ## DRC and LVS Verification
 
 The layout verification was performed using KLayout to ensure the design satisfies all design rule checks (DRC) and layout-versus-schematic (LVS) requirements.
@@ -82,14 +87,14 @@ The layout verification was performed using KLayout to ensure the design satisfi
 
 <p align="center">
   <img src="../docs/images/DRC.png" alt="DRC"><br>
-  <em>Figure 6: Layout complies with design rules.</em>
+  <em>Figure 7: Layout complies with design rules.</em>
 </p>
 
 - LVS verification: The Layout Versus Schematic (LVS) verification confirms that the implemented layout matches the original schematic design.
 
 <p align="center">
   <img src="../docs/images/LVS.png" alt="LVS"><br>
-  <em>Figure 7: Layout matches original schematic.</em>
+  <em>Figure 8: Layout matches original schematic.</em>
 </p>
 
 ## Team & Acknowledgements
