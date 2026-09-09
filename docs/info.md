@@ -89,3 +89,7 @@ The layout verification was performed using KLayout to ensure the design satisfi
   <img src="../docs/images/LVS.png" alt="LVS"><br>
   <em>Figure 7: Layout matches original schematic.</em>
 </p>
+
+## Team & Acknowledgements
+
+This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS program.
