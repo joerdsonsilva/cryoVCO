@@ -72,7 +72,7 @@ Below is the final completed layout of the designed circuit.
   <em>Figure 5: LC-VCO Layout.</em>
 </p>
 
-The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections, as shown in Fig. X.
+The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections, as shown in Fig. 6.
 
 <p align="center">
   <img src="../docs/images/RFPAD.png" alt="RFPAD"><br>
