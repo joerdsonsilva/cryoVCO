@@ -40,7 +40,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Technology              | IHP (SG13G2) 130 nm | IHP (SG13G2C) 130 nm |
 | Control Voltage         | 0–3 V               | 0–3 V                |
 | Supply Voltage          | 1.2 V               | 1.2 V                | 
-| Bias Current            | 6 mA                | 6 mA                 |
+| Bias Current            | 6 mA                | ~5.88 mA                 |
 
 ## Post-Layout Simulation
 
