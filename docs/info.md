@@ -39,15 +39,6 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Supply Voltage          | 1.2 V               | 1.2 V                | 
 | Bias Current            | 6 mA                | 6 mA                 |
 
-## Layout
-
-Below is the final completed layout of the designed circuit.
-
-<p align="center">
-  <img src="../docs/images/Layout.png" alt="Layout"><br>
-  <em>Figure 3: LC-VCO Layout.</em>
-</p>
-
 ## Post-Layout Simulation
 
 <p align="center">
@@ -65,6 +56,15 @@ Below is the final completed layout of the designed circuit.
 | Operating Frequency  | 4.9 GHz       | 4.9 GHz     |
 | Tuning Range         | 4.7–5.0 GHz   | 4.8–5.1 GHz |
 | Phase Noise (@1 MHz) | -98.8 dBc/Hz  | -110 dBc/Hz |
+
+## Layout
+
+Below is the final completed layout of the designed circuit.
+
+<p align="center">
+  <img src="../docs/images/Layout.png" alt="Layout"><br>
+  <em>Figure 3: LC-VCO Layout.</em>
+</p>
 
 ## DRC and LVS Verification
 
