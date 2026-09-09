@@ -1,6 +1,7 @@
 # Voltage-Controlled Oscillator (VCO)
+
 <p align="center">
-  <img src="../docs/images/Quantum.png" alt="Quantum"><br>
+  <img src="../docs/images/Quantum.png" alt="Quantum" width="600"><br>
   <em>Figure 0: LC-VCO schematic.</em>
 </p>
 
