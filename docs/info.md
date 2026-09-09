@@ -101,9 +101,9 @@ The layout verification was performed using KLayout to ensure the design satisfi
 
 This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS program.
 
-### Mentor
+**Mentor**
 - Prof. Francisco Brito (PhD in Electrical Engineering)
-### Students
+**Students**
 - Joerdson Silva (MSc Student in Electrical Engineering)
 - Luiz Paulo (Electrical Engineering Student)
 - Iranildo Sales (Electrical Engineering Student)
