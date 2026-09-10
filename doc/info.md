@@ -1,10 +1,7 @@
-# Voltage-Controlled Oscillator (VCO)
-<p align="center">
-  <img src="../docs/images/Quantum.png" alt="Quantum"><br>
-  <em>Figure 0: LC-VCO schematic.</em>
-</p>
+## Cryogenic Voltage-Controlled Oscillator (VCO)
 
-## Voltage-Controlled Oscillator (VCO)
+Currently, the classical electronics used for qubit control and readout operates at room temperature, while the qubits operate at cryogenic temperatures. This temperature difference requires connections between different thermal stages, which can limit the scalability of quantum computers. Accordingly, this project aims to develop a voltage-controlled oscillator (VCO) using a cross-coupled LC topology, capable of operating at cryogenic temperatures of 4 K (or −269 °C) for future applications in superconducting qubit control.
+
 The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using the technology available in the SG13G2 folder for room-temperature simulations. To enable operation under cryogenic conditions, transistor characterization was provided by IHP and made available in the SG13G2C folder, allowing for the analysis of device behavior at low temperatures. The schematic and the testbench were implemented according to Figures 1 and 2, respectively.
 
 <p align="center">
@@ -28,7 +25,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | R<sub>1</sub>, R<sub>2</sub>     | 221.72 Ω               | Resistor   |
 | L<sub>1</sub>, L<sub>2</sub>     | 1.54 nH                | Inductor   |
 
-## Input and Output of a Cross-Coupled LC-VCO:
+## Input and Output of a Cross-Coupled LC-VCO
 
 | Pin Name                | Type                | Description                   |
 | ----------------------- | ------------------- | ----------------------------- |
@@ -105,7 +102,7 @@ The layout verification was performed using KLayout to ensure the design satisfi
 
 ## Team & Acknowledgements
 
-This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS program.
+This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS 2025-26 program.
 
 **Mentor**
 - Prof. Francisco Brito (PhD in Electrical Engineering)
