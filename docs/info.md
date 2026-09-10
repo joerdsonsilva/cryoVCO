@@ -1,6 +1,6 @@
 # Voltage-Controlled Oscillator (VCO)
 
-A quantum computer is composed of a quantum processor, whose qubits operate at cryogenic temperatures, and a classical electronic controller, located at room temperature, responsible for the readout and control of the processor.
+A superconducting quantum computer is composed, in simplified terms, of a quantum processor, whose qubits operate at cryogenic temperatures, and a classical electronic controller, located at room temperature, responsible for the control and readout of the processor. However, as the number of qubits increases, the number of connections across different thermal stages also increases, limiting the scalability of quantum computers.
 
 <p align="center">
   <img src="../docs/images/Quantum.png" alt="Quantum" width="600"><br>
