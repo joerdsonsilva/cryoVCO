@@ -1,6 +1,6 @@
 # Voltage-Controlled Oscillator (VCO)
 
-Currently, the classical electronics used for qubit control and readout operates at room temperature, while the qubits operate at cryogenic temperatures. This temperature difference requires connections between different thermal stages, which can limit the scalability of quantum computers. The cryoVCO project aims to develop a voltage-controlled oscillator (VCO) in 130 nm technology, with a focus on low-temperature operation and future applications in superconducting qubit control.
+Currently, the classical electronics used for qubit control and readout operates at room temperature, while the qubits operate at cryogenic temperatures. This temperature difference requires connections between different thermal stages, which can limit the scalability of quantum computers. Accordingly, this project aims to develop a voltage-controlled oscillator (VCO) capable of operating at cryogenic temperatures of 4 K (or −269 °C) for future applications in superconducting qubit control.
 
 <p align="center">
   <img src="../docs/images/Quantum.png" alt="Quantum" width="600"><br>
