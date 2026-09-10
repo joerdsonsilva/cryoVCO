@@ -1,5 +1,7 @@
 # Voltage-Controlled Oscillator (VCO)
 
+A quantum computer is composed of a quantum processor, whose qubits operate at cryogenic temperatures, and a classical electronic controller, located at room temperature, responsible for the readout and control of the processor.
+
 <p align="center">
   <img src="../docs/images/Quantum.png" alt="Quantum" width="600"><br>
   <em>Figure 0: LC-VCO schematic.</em>
