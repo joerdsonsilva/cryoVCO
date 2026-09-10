@@ -10,7 +10,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 </p>
 
 <p align="center">
-  <img src="../doc/images/Testbench.png" alt="Testbench"><br>
+  <img src="doc/images/Testbench.png" alt="Testbench"><br>
   <em>Figure 2: Testbench setup for the LC-VCO.</em>
 </p>
 
@@ -48,12 +48,12 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 ## Post-Layout Simulation
 
 <p align="center">
-  <img src="../doc/images/Tuning Range.png" alt="Tuning Range"><br>
+  <img src="doc/images/Tuning Range.png" alt="Tuning Range"><br>
   <em>Figure 3: Simulated oscillation frequency versus control voltage.</em>
 </p>
 
 <p align="center">
-  <img src="../doc/images/Phase Noise.png" alt="Phase Noise"><br>
+  <img src="doc/images/Phase Noise.png" alt="Phase Noise"><br>
   <em>Figure 4: Simulated phase noise at 4.9 GHz.</em>
 </p>
 
@@ -71,14 +71,14 @@ Below is the final completed layout of the designed circuit.
 - Core Area: 0.0845 mm²
 
 <p align="center">
-  <img src="../doc/images/Layout.png" alt="Layout"><br>
+  <img src="doc/images/Layout.png" alt="Layout"><br>
   <em>Figure 5: LC-VCO Layout.</em>
 </p>
 
 The circuit includes dedicated RF pads (RFPADs) for the RF input and output connections.
 
 <p align="center">
-  <img src="../doc/images/RFPAD.png" alt="RFPAD"><br>
+  <img src="doc/images/RFPAD.png" alt="RFPAD"><br>
   <em>Figure 6: RFPAD.</em>
 </p>
 
@@ -89,14 +89,14 @@ The layout verification was performed using KLayout to ensure the design satisfi
 - DRC verification: The Design Rule Check (DRC) verifies that the layout follows all the design rules defined by the PDK.
 
 <p align="center">
-  <img src="../doc/images/DRC.png" alt="DRC"><br>
+  <img src="doc/images/DRC.png" alt="DRC"><br>
   <em>Figure 7: Layout complies with design rules.</em>
 </p>
 
 - LVS verification: The Layout Versus Schematic (LVS) verification confirms that the implemented layout matches the original schematic design.
 
 <p align="center">
-  <img src="../doc/images/LVS.png" alt="LVS"><br>
+  <img src="doc/images/LVS.png" alt="LVS"><br>
   <em>Figure 8: Layout matches original schematic.</em>
 </p>
 
