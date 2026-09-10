@@ -102,7 +102,7 @@ The layout verification was performed using KLayout to ensure the design satisfi
 
 ## Team & Acknowledgements
 
-This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS program.
+This project was developed by students from the MERFESLab laboratory as part of the open-source UNIC-CASS 2025-26 program.
 
 **Mentor**
 - Prof. Francisco Brito (PhD in Electrical Engineering)
