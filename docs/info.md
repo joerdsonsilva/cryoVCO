@@ -25,7 +25,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | R<sub>1</sub>, R<sub>2</sub>     | 221.72 Ω               | Resistor   |
 | L<sub>1</sub>, L<sub>2</sub>     | 1.54 nH                | Inductor   |
 
-## Input and Output of a Cross-Coupled LC-VCO:
+## Input and Output of a Cross-Coupled LC-VCO
 
 | Pin Name                | Type                | Description                   |
 | ----------------------- | ------------------- | ----------------------------- |
