@@ -1,6 +1,6 @@
 # Voltage-Controlled Oscillator (VCO)
 
-A superconducting quantum computer is composed, in simplified terms, of a quantum processor, whose qubits operate at cryogenic temperatures, and a classical electronic controller, located at room temperature, responsible for the readout and control of the processor. However, as the number of qubits increases, the number of connections across different thermal stages also increases, which limits the scalability of quantum computers.
+This project aims to develop cryogenic circuits for applications in superconducting quantum computers. Currently, the classical electronics used for qubit control and readout operates at room temperature, while the qubits operate at cryogenic temperatures. This temperature difference requires connections between different thermal stages, which can limit the scalability of quantum computers.
 
 <p align="center">
   <img src="../docs/images/Quantum.png" alt="Quantum" width="600"><br>
