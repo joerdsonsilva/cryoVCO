@@ -1,3 +1,3 @@
-# MPC2585-main
+# OSC0497-main
 
-Notes for cell `MPC2585-main`.
+Notes for cell `OSC0497-main`.
