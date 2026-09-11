@@ -1,0 +1,15 @@
+** sch_path: /home/Joerdson/IHP-Open-PDK/ihp-sg13g2/libs.tech/xschem/cryoVCO.sch
+.subckt cryoVCO LON LOP VCC ICC GND VCTR
+L1 VCC LOP GND inductor w=3e-6 s=3e-6 d=80e-6 nr_r=3 m=1
+R1 LOP VCC GND rppd w=10.77e-6 l=8.92e-6 m=1 b=0
+C1 VCC LOP cap_cmim w=11.42e-6 l=12.54e-6 m=1
+L2 VCC LON GND inductor w=3e-6 s=3e-6 d=80e-6 nr_r=3 m=1
+R2 LON VCC GND rppd w=10.77e-6 l=8.92e-6 m=1 b=0
+C2 VCC LON cap_cmim w=11.42e-6 l=12.54e-6 m=1
+C3 LOP VCTR LON GND sg13_hv_svaricap w=9.74u l=0.8u Nx=3
+MN3 LOP LON net1 GND sg13_lv_nmos w=40u l=0.13u ng=5 m=1
+MN4 LON LOP net1 GND sg13_lv_nmos w=40u l=0.13u ng=5 m=1
+MN2 net1 ICC GND GND sg13_lv_nmos w=120u l=0.13u ng=15 m=1
+MN1 ICC ICC GND GND sg13_lv_nmos w=120u l=0.13u ng=15 m=1
+.ends
+.end
